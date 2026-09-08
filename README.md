@@ -1,4 +1,9 @@
 # Order-it-Ecommerce-PowerBI-Dashboard
+
+📸 Dashboard Preview
+
+<img width="1160" height="661" alt="Screenshot 2026-09-09 025000" src="https://github.com/user-attachments/assets/bf9bafc3-5bdd-4640-b27d-dd7201e87f04" />
+
 🛒 OrderIt – E-Commerce &amp; Delivery Analytics Dashboard is an interactive Power BI dashboard that transforms grocery sales data into actionable insights. It analyzes sales, products, outlets, ratings, locations, fat content, and trends through dynamic KPIs, charts, filters, and interactive visuals for data-driven business decisions.
 
 🛒 OrderIt — E-Commerce & Delivery Analytics Dashboard
@@ -202,7 +207,4 @@ Use average ratings and item-level metrics alongside sales to obtain a broader v
 
 Provide stakeholders with a centralized dashboard for exploring business performance without manually analyzing raw datasets.
 
-6. Screenshots / Demo
-📸 Dashboard Preview
 
-<img width="1160" height="661" alt="Screenshot 2026-09-09 025000" src="https://github.com/user-attachments/assets/bf9bafc3-5bdd-4640-b27d-dd7201e87f04" />
